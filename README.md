@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)]
+[![MasterHead]([https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg))]
 
 <h1 align="center">Hi 👋, I'm Rakshit Yadav</h1>
 <h3 align="center">I am pursuing B.Tech in Computer Science from CSIT Durg.</h3>
