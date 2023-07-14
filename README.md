@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/280939690/original/5b68e7a636a695efce39d4c13d333693721871c4/be-your-mern-stack-developer.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Rakshit Yadav</h1>
 <h3 align="center">I am pursuing B.Tech in Computer Science from CSIT Durg.</h3>
