@@ -1,4 +1,4 @@
-[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)]
+[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)]
 
 <h1 align="center">Hi 👋, I'm Rakshit Yadav</h1>
 <h3 align="center">I am pursuing B.Tech in Computer Science from CSIT Durg.</h3>
