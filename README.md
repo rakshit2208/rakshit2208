@@ -1,4 +1,4 @@
-[![MasterHead](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)]
+[![MasterHead]("https://media.licdn.com/dms/image/C4D16AQFQU6ol5IKgWg/profile-displaybackgroundimage-shrink_200_800/0/1653123663526?e=2147483647&v=beta&t=oWs7RsJdb0KqazPnFlirmIL6Z98SVhadWu0OY5MEMVc")]
 
 <h1 align="center">Hi 👋, I'm Rakshit Yadav</h1>
 <h3 align="center">I am pursuing B.Tech in Computer Science from CSIT Durg.</h3>
