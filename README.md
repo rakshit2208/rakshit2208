@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)]
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/321229691/original/078ffb45d9f2396c70bd0cf1d534d96c5b1d4be7/be-your-mern-stack-expert.png)]
 
 <h1 align="center">Hi 👋, I'm Rakshit Yadav</h1>
 <h3 align="center">I am pursuing B.Tech in Computer Science from CSIT Durg.</h3>
